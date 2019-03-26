@@ -1,5 +1,5 @@
 % ------- Algoritmo do codigo de Hamming (7,4) --------
-% Arquivo (nome): hamming
+% Arquivo (nome): hamming_74
 % Canal BSC 
 %--------------- variaveis iniciais -------------------
 clc, clear all;
